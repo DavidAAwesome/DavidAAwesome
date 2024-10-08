@@ -37,11 +37,14 @@ PlaceHolder.
 - ICSI-213 Data Structures
 - ICSI-311 Principles of Programming Languages
 - ICSI-333 System Fundamentals
+- ICSI-401 Numerical Methods
 - ICSI-403 Advance Analysis of Algorithms
 - ICSI-404 Computer Architecture
+- ICSI-412 Operating Systems
 
 ## Contact
 - [Email](davidaduku562@gmail.com)
 - [UAlbany Email](ddaduku@albany.edu)
+- [Linkedin](https://www.linkedin.com/in/david-aduku-47a249251/)
 
 
