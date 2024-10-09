@@ -18,8 +18,8 @@ Here are some ideas to get you started:
 -->
 
 ## Projects
-### [PlaceHolder](https://github.com/username/project-repo)
-PlaceHolder.
+### [Computer Architecture Simulator](https://github.com/DavidAAwesome/Computer-Architecture-Simulator-in-Java)
+Simulates a mini computer science architecture and assembler in java.
 
 ### [PlaceHolder](https://github.com/username/another-project-repo)
 PlaceHolder.
