@@ -21,15 +21,17 @@ Here are some ideas to get you started:
 ### [Computer Architecture Simulator](https://github.com/DavidAAwesome/Computer-Architecture-Simulator-in-Java)
 Simulates a mini computer science architecture and assembler in java.
 
-### [PlaceHolder](https://github.com/username/another-project-repo)
-PlaceHolder.
+### [Lexer, Parser, and Interpreter for BASIC Programming Language](https://github.com/DavidAAwesome/Lexer-Parser-and-Interpreter-for-BASIC_Programming-Language)
+A working lexer, parser, and interpreter made for the BASIC programming language.
 
 ## Skills
 - Java
 - C
 - C#
-- HTML
-- CSS
+- Python
+- HTML5
+- CSS3
+- Version Control
 
 ## Education
 - ICSI-201 Introduction to Computer Science
@@ -43,7 +45,7 @@ PlaceHolder.
 - ICSI-412 Operating Systems
 
 ## Contact
-- [Email](davidaduku562@gmail.com)
+- [Personal Email](davidaduku562@gmail.com)
 - [UAlbany Email](ddaduku@albany.edu)
 - [Linkedin](https://www.linkedin.com/in/david-aduku-47a249251/)
 
