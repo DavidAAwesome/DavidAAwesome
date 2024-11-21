@@ -6,7 +6,7 @@
 - I am available for any questions using any of my contact info.
 - I greatly enjoy creating video games, building web applications, and learning new technologies.
 - 😄 Pronouns: he/him
-- 📫 How to reach me:[Linkedin](https://www.linkedin.com/in/david-aduku-47a249251/)
+- 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/david-aduku-47a249251/)
 <!--
 **DavidAAwesome/DavidAAwesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -53,5 +53,6 @@ A working lexer, parser, and interpreter made for the BASIC programming language
 - [Personal Email](davidaduku562@gmail.com)
 - [UAlbany Email](ddaduku@albany.edu)
 - [Linkedin](https://www.linkedin.com/in/david-aduku-47a249251/)
+- [itch.io](https://davidaawesome.itch.io/)
 
 
