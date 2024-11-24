@@ -5,8 +5,9 @@
 - I also have minors in Game Design, Informatics, and Machine Learning.
 - I am available for any questions using any of my contact info.
 - I greatly enjoy creating video games, building web applications, and learning new technologies.
-- 😄 Pronouns: he/him
 - 📫 How to reach me: [Linkedin](https://www.linkedin.com/in/david-aduku-47a249251/)
+- 🎮 Public Games: [itch.io](https://davidaawesome.itch.io/)
+- 😄 Pronouns: he/him
 <!--
 **DavidAAwesome/DavidAAwesome** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -52,7 +53,7 @@ Simulates an operating system in Java.
 - ICSI-404 Computer Architecture
 - ICSI-412 Operating Systems
 
-## Contact
+## Links
 - [Personal Email](davidaduku562@gmail.com)
 - [UAlbany Email](ddaduku@albany.edu)
 - [Linkedin](https://www.linkedin.com/in/david-aduku-47a249251/)
