@@ -23,11 +23,14 @@ Here are some ideas to get you started:
 -->
 
 ## Projects
-### [Computer Architecture Simulator](https://github.com/DavidAAwesome/Computer-Architecture-Simulator-in-Java)
-Simulates a mini computer science architecture and assembler in java.
-
 ### [Lexer, Parser, and Interpreter for BASIC Programming Language](https://github.com/DavidAAwesome/Lexer-Parser-and-Interpreter-for-BASIC_Programming-Language)
 A working lexer, parser, and interpreter made for the BASIC programming language.
+
+### [Computer Architecture Simulator](https://github.com/DavidAAwesome/Computer-Architecture-Simulator-in-Java)
+Simulates a mini computer science architecture and assembler in Java.
+
+### [Computer Operating System Simulator](https://github.com/DavidAAwesome/Computer-Operating-System-Simulator-in-Java)
+Simulates an operating system in Java.
 
 ## Skills
 - Java
