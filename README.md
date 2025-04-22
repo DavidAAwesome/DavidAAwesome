@@ -44,6 +44,7 @@ Simulates an operating system in Java.
 - Version Control
 
 ## Education
+### Computer Science
 - ICSI-201 Introduction to Computer Science
 - ICSI-210 Discrete Structures
 - ICSI-213 Data Structures
@@ -52,7 +53,15 @@ Simulates an operating system in Java.
 - ICSI-401 Numerical Methods
 - ICSI-403 Advance Analysis of Algorithms
 - ICSI-404 Computer Architecture
+- ICSI-410 Database Systems
 - ICSI-412 Operating Systems
+- ICSI-535 Artificial Intelligence
+- ICSI-536 Machine Learning
+
+### Informatics
+- CINF-201 Intro to Web Technologies
+- CINF-371 Digital Game Design Develop I
+- CINF-471 Digital Game Design Develop II
 
 ## Links
 - [Personal Email](davidaduku562@gmail.com)
