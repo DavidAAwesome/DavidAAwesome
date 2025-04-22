@@ -40,6 +40,7 @@ Simulates an operating system in Java.
 - Python
 - HTML5
 - CSS3
+- Figma
 - Version Control
 
 ## Education
