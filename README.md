@@ -24,7 +24,8 @@ Here are some ideas to get you started:
 -->
 
 ## Projects
-### [Lexer, Parser, and Interpreter for BASIC Programming Language](https://github.com/DavidAAwesome/Lexer-Parser-and-Interpreter-for-BASIC_Programming-Language)
+### [Lexer, Parser, and Interpreter for BASIC Programming Language](https://github.com/DavidAAwesome/Lexer-Parser-and-Interpreter-for-BASIC-Programming-Language)
+
 A working lexer, parser, and interpreter made for the BASIC programming language.
 
 ### [Computer Architecture Simulator](https://github.com/DavidAAwesome/Computer-Architecture-Simulator-in-Java)
