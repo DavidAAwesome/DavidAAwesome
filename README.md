@@ -34,7 +34,7 @@ Simulates a mini computer science architecture and assembler in Java.
 ### [Computer Operating System Simulator](https://github.com/DavidAAwesome/Computer-Operating-System-Simulator-in-Java)
 Simulates an operating system in Java.
 
-### [Better Reviews(Website Creation)](https://github.com/DavidAAwesome/Better-Reviews-Website)
+### [Better Reviews](https://github.com/DavidAAwesome/Better-Reviews-Website)
 Created a website for sharing game reviews.
 
 ## Skills
