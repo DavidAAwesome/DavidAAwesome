@@ -1,7 +1,7 @@
 ## Hellooooooooooooooo, I'm David Aduku 👋
 
 ## About Me
-- I am a Combined BS/ MS Computer Science Junior at UAlbany.
+- I am a Combined BS/ MS Computer Science Senior at UAlbany.
 - I also have minors in Game Design, Informatics, and Machine Learning.
 - I am available for any questions using any of my contact info.
 - I greatly enjoy creating video games, building web applications, and learning new technologies.
